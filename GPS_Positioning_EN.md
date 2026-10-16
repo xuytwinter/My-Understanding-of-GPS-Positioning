@@ -4,6 +4,10 @@
 **Student ID:** 26109261g  
 **Course:** LSGI533  
 
+### Markdown source
+
+This report includes mathematical formulas and specialised symbols, which are easier to write and maintain in Markdown with LaTeX notation. This PDF was therefore converted from the Markdown source. The Markdown files and lecture-slide screenshots used in the report have been uploaded to GitHub: [My Understanding of GPS Positioning](https://github.com/xuytwinter/My-Understanding-of-GPS-Positioning).
+
 ## Contents
 
 - [1. The positioning problem](#introduction)
@@ -11,7 +15,7 @@
 - [3. GPS observation equations: pseudorange, carrier phase, and Doppler](#observations)
 - [4. Receiver positioning algorithms using pseudorange measurements](#receiver-positioning)
 - [5. My overall understanding](#understanding)
-- [References and Markdown source](#references)
+- [References](#references)
 
 <a id="introduction"></a>
 
@@ -421,7 +425,3 @@ The main lesson for me is that GPS positioning is not simply the intersection of
 5. LSGI533 Lecture 5, *GB/SB*, and Lecture 6, *High Precision Positioning*, for the brief extension beyond standalone code positioning.
 
 6. LSGI533 Lecture 1, *Introduction*, p. 13, for the Doppler-effect illustration.
-
-### Markdown source
-
-This report includes mathematical formulas and specialised symbols, which are easier to write and maintain in Markdown with LaTeX notation. This PDF was therefore converted from the Markdown source. The Markdown files and lecture-slide screenshots used in the report have been uploaded to GitHub: [My Understanding of GPS Positioning](https://github.com/xuytwinter/My-Understanding-of-GPS-Positioning).

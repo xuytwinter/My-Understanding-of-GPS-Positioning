@@ -4,6 +4,10 @@
 **学号：** 26109261g  
 **课程：** LSGI533  
 
+### Markdown 来源说明
+
+本报告涉及数学公式和专业符号，使用 Markdown 配合 LaTeX 记法更便于编写和维护，因此本 PDF 由 Markdown 源文件转换而来。报告的 Markdown 文件与所用课件截图已上传至 GitHub：[My Understanding of GPS Positioning](https://github.com/xuytwinter/My-Understanding-of-GPS-Positioning)。
+
 ## 目录
 
 - [1. 定位问题的出发点](#introduction)
@@ -11,7 +15,7 @@
 - [3. GPS 观测方程：伪距、载波相位和多普勒](#observations)
 - [4. 使用伪距测量的接收机定位算法](#receiver-positioning)
 - [5. 我对整个 GPS 定位过程的理解](#understanding)
-- [参考文献与 Markdown 来源](#references)
+- [参考文献](#references)
 
 <a id="introduction"></a>
 
@@ -427,7 +431,3 @@ $$
 5. LSGI533 Lecture 5, *GB/SB*，以及 Lecture 6, *High Precision Positioning*，用于单机码定位以外的简短延伸。
 
 6. LSGI533 Lecture 1, *Introduction*，第13页，用于多普勒效应示意图。
-
-### Markdown 来源说明
-
-本报告涉及数学公式和专业符号，使用 Markdown 配合 LaTeX 记法更便于编写和维护，因此本 PDF 由 Markdown 源文件转换而来。报告的 Markdown 文件与所用课件截图已上传至 GitHub：[My Understanding of GPS Positioning](https://github.com/xuytwinter/My-Understanding-of-GPS-Positioning)。
